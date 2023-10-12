@@ -1,4 +1,3 @@
-#!/usr/bin/csharp
 using System;
 
 class Program
